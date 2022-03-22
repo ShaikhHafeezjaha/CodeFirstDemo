@@ -9,5 +9,6 @@ namespace CodeFirstDemo.Entites
         {
         }
         public virtual DbSet<EmployeeMaster> EmployeeMaster { get; set; }
+        public virtual DbSet<SalaryMaster> SalaryMaster { get; set; }
     }
 }
