@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace CodeFirstDemo.Models
+namespace CodeFirstDemo.Entites
 {
     public record SalaryMaster
     {

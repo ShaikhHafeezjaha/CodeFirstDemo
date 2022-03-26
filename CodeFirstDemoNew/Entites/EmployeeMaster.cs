@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace CodeFirstDemo.Models
+namespace CodeFirstDemo.Entites
 {
     public record EmployeeMaster
     {
